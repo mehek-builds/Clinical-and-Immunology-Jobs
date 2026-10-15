@@ -1,6 +1,6 @@
-# 157 clinical research and clinical development roles
+# 156 clinical research and clinical development roles
 
-**157 roles at 67 companies.** Checked 15 Oct 2026. Clinical research, clinical development, clinical operations and clinical trial roles.
+**156 roles at 67 companies.** Checked 15 Oct 2026. Clinical research, clinical development, clinical operations and clinical trial roles.
 
 _Pulled from companies' own job boards and rebuilt every Monday._
 
@@ -136,7 +136,6 @@ _Pulled from companies' own job boards and rebuilt every Monday._
 | **Syneos Health** | [Clinical Scientist - Respiratory](https://trylitos.com/job/b2888951-0f41-47bf-81b4-58e847ca2425?utm_source=github&utm_campaign=clinical-immunology-clinical) | USA-NC-Remote; USA-RI-Remote; USA-ME-Remote; |  | May 18 |  |
 | **Syneos Health** | [Clinical Scientist - Cardiovascular](https://trylitos.com/job/80bb2c2b-3d6d-42c0-8d0b-7d28b8533b5e?utm_source=github&utm_campaign=clinical-immunology-clinical) | USA-NC-Remote; USA-RI-Remote; USA-ME-Remote; |  | May 18 |  |
 | **Syneos Health** | [Clinical Scientist - Ophthalmology](https://trylitos.com/job/343d6ff8-d0d4-4eb0-94c5-35996de43054?utm_source=github&utm_campaign=clinical-immunology-clinical) | USA-NC-Remote; USA-RI-Remote; USA-ME-Remote; |  | May 18 |  |
-| **University of Chicago** | [Clinical Research Coordinator I - Oral Health Research Staff](https://trylitos.com/job/4b584af7-fc4e-4fdd-9dc3-ab9945022cc7?utm_source=github&utm_campaign=clinical-immunology-clinical) | Chicago, IL |  | May 12 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **Flourish Research** | [Clinical Research Coordinator](https://trylitos.com/job/e56487b6-21f6-47f7-9508-4419fd696e44?utm_source=github&utm_campaign=clinical-immunology-clinical) | Boca Raton, Florida, United States; Denver, C |  | Oct 13 |  |
 | **Headlands Research** | [Clinical Research Coordinator](https://trylitos.com/job/3b31ac15-0eae-40ef-bca6-5017c57b229e?utm_source=github&utm_campaign=clinical-immunology-clinical) | Brownsville, Texas; Lake Worth, Florida |  | Oct 12 |  |
 | **Headlands Research** | [Clinical Research Coordinator II](https://trylitos.com/job/9442ae2d-3e53-45f9-9d2d-153db624be9d?utm_source=github&utm_campaign=clinical-immunology-clinical) | San Diego, California |  | Oct 12 |  |
